@@ -1,1 +1,0 @@
-# molex-coding-test
